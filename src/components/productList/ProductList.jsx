@@ -8,9 +8,7 @@ const ProductList = () => {
       <div className="pl-texts">
         <h1 className="pl-title">Create & inspire. It's agrey</h1>
         <p className="pl-desc">
-          Agrey is a creative portfolio that your work has been waiting for.
-          Beautiful homes, stunning portfolio styles & a whole lot more awaits
-          inside.
+    some of my best porjects
         </p>
       </div>
       <div className="pl-list">
